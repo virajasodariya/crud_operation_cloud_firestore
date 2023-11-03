@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034158875528",
+    "project_id": "crud-operation-cloud-firestore",
+    "storage_bucket": "crud-operation-cloud-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034158875528:android:c27a3bf99329f9bf58d03d",
+        "android_client_info": {
+          "package_name": "com.example.crud_operation_cloud_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwMkM3MTSusXT_UVqYyTb1bo_2ianfDWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
